@@ -1,5 +1,5 @@
 body{
-	background-color: #f5f5dc;
+	background-color: #2C3539;
 	font-family: 'Source Code Pro', monospace;
 	font-style: normal;
 	font-weight: 100;
@@ -13,7 +13,7 @@ main{
 }
 
 h1{
-	color: #161614;
+	color: #ff0066;
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
